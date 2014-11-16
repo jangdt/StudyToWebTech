@@ -2,6 +2,7 @@
 /**
  * Module dependencies.
  */
+global.console.log("hello~~ jangdt's world");
 
 var express = require('express');
 var routes = require('./routes');
